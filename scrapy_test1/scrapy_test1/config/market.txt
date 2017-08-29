@@ -1,0 +1,12 @@
+#抓取哪些应用市场的数据
+
+#360
+#baidu
+yingyongbao
+#wandoujia
+#xiaomi
+#huawei
+oppo
+#vivo
+#meizu
+#lianxiang
